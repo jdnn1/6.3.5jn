@@ -30,6 +30,8 @@ main.Parent = ScreenGui
 main.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
 main.Position = UDim2.new(0.14465405, 0, 0.242884278, 0)
 main.Size = UDim2.new(0, 168, 0, 246)
+main.Active = true
+main.Draggable = true
 
 user.Name = "user"
 user.Parent = main
