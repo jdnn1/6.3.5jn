@@ -55,13 +55,13 @@ cord.TextSize = 14.000
 
 piggy.Name = "piggy"
 piggy.Parent = main
-piggy.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+piggy.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 piggy.BorderColor3 = Color3.fromRGB(50, 50, 50)
 piggy.Position = UDim2.new(0.369047612, 0, 0.654471278, 0)
 piggy.Size = UDim2.new(0, 44, 0, 33)
 piggy.Font = Enum.Font.SourceSans
 piggy.Text = "piggy'"
-piggy.TextColor3 = Color3.fromRGB(0, 0, 0)
+piggy.TextColor3 = Color3.fromRGB(255, 255, 255)
 piggy.TextSize = 14.000
 piggy.MouseButton1Down:connect(function()
 	local PiggyGui = Instance.new("ScreenGui")
@@ -142,13 +142,13 @@ end)
 
 infy.Name = "infy"
 infy.Parent = main
-infy.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+infy.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 infy.BorderColor3 = Color3.fromRGB(50, 50, 50)
 infy.Position = UDim2.new(0, 0, 0.528455019, 0)
 infy.Size = UDim2.new(0, 62, 0, 31)
 infy.Font = Enum.Font.SourceSans
 infy.Text = "admin'"
-infy.TextColor3 = Color3.fromRGB(0, 0, 0)
+infy.TextColor3 = Color3.fromRGB(255, 255, 255)
 infy.TextSize = 14.000
 infy.MouseButton1Down:connect(function()
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
@@ -156,13 +156,13 @@ end)
 
 arsen.Name = "arsen"
 arsen.Parent = main
-arsen.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+arsen.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 arsen.BorderColor3 = Color3.fromRGB(50, 50, 50)
 arsen.Position = UDim2.new(0, 0, 0.654471278, 0)
 arsen.Size = UDim2.new(0, 62, 0, 33)
 arsen.Font = Enum.Font.SourceSans
 arsen.Text = "arsenal'"
-arsen.TextColor3 = Color3.fromRGB(0, 0, 0)
+arsen.TextColor3 = Color3.fromRGB(255, 255, 255)
 arsen.TextSize = 14.000
 arsen.MouseButton1Down:connect(function()
 	function getplrsname()
@@ -204,12 +204,12 @@ end)
 
 socool.Name = "so cool"
 socool.Parent = main
-socool.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+socool.BackgroundColor3 = Color3.fromRGB(95, 5, 86)
 socool.Position = UDim2.new(0, 0, 0.788617909, 0)
 socool.Size = UDim2.new(0, 168, 0, 52)
 socool.Font = Enum.Font.SourceSans
 socool.Text = "chat bypass (13+)"
-socool.TextColor3 = Color3.fromRGB(0, 0, 0)
+socool.TextColor3 = Color3.fromRGB(93, 86, 59)
 socool.TextSize = 14.000
 socool.MouseButton1Down:connect(function()
 
@@ -219,13 +219,13 @@ end)
 
 word.Name = "word"
 word.Parent = main
-word.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+word.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 word.BorderColor3 = Color3.fromRGB(50, 50, 50)
 word.Position = UDim2.new(0.630952358, 0, 0.654471278, 0)
 word.Size = UDim2.new(0, 62, 0, 33)
 word.Font = Enum.Font.SourceSans
 word.Text = "word bomb"
-word.TextColor3 = Color3.fromRGB(0, 0, 0)
+word.TextColor3 = Color3.fromRGB(255, 242, 243)
 word.TextSize = 14.000
 word.MouseButton1Down:connect(function()
 	loadstring(game:HttpGet("https://gist.githubusercontent.com/raw/08c048a8b1e9f5637470422cc3621364", true))()
@@ -233,12 +233,12 @@ end)
 
 ragdollgui.Name = "ragdoll gui"
 ragdollgui.Parent = main
-ragdollgui.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+ragdollgui.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 ragdollgui.Position = UDim2.new(0.369047612, 0, 0.528455019, 0)
 ragdollgui.Size = UDim2.new(0, 43, 0, 30)
 ragdollgui.Font = Enum.Font.SourceSans
 ragdollgui.Text = "ragdoll"
-ragdollgui.TextColor3 = Color3.fromRGB(0, 0, 0)
+ragdollgui.TextColor3 = Color3.fromRGB(255, 255, 255)
 ragdollgui.TextSize = 14.000
 ragdollgui.MouseButton1Down:connect(function()
 --[[
@@ -258,13 +258,13 @@ end)
 
 robeats.Name = "robeats"
 robeats.Parent = main
-robeats.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+robeats.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 robeats.BorderColor3 = Color3.fromRGB(50, 50, 50)
 robeats.Position = UDim2.new(0.630952358, 0, 0.528455019, 0)
 robeats.Size = UDim2.new(0, 62, 0, 33)
 robeats.Font = Enum.Font.SourceSans
 robeats.Text = "robeats"
-robeats.TextColor3 = Color3.fromRGB(0, 0, 0)
+robeats.TextColor3 = Color3.fromRGB(255, 255, 255)
 robeats.TextSize = 14.000
 robeats.MouseButton1Down:connect(function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/notclosure/new-years/main/happ.lua"))()
@@ -273,12 +273,12 @@ end)
 
 toh.Name = "toh"
 toh.Parent = main
-toh.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+toh.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 toh.Position = UDim2.new(0.559523761, 0, 0.406504065, 0)
 toh.Size = UDim2.new(0, 74, 0, 29)
 toh.Font = Enum.Font.SourceSans
 toh.Text = "Tower Of Hell"
-toh.TextColor3 = Color3.fromRGB(0, 0, 0)
+toh.TextColor3 = Color3.fromRGB(255, 255, 255)
 toh.TextSize = 14.000
 toh.MouseButton1Down:connect(function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/SpedCoding/Skri-Hub/main/Framework"))()
@@ -286,109 +286,109 @@ end)
 
 funky.Name = "funky"
 funky.Parent = main
-funky.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+funky.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 funky.Position = UDim2.new(-4.54130635e-08, 0, 0.406504065, 0)
 funky.Size = UDim2.new(0, 94, 0, 29)
 funky.Font = Enum.Font.SourceSans
 funky.Text = "funky friday"
-funky.TextColor3 = Color3.fromRGB(0, 0, 0)
+funky.TextColor3 = Color3.fromRGB(255, 255, 255)
 funky.TextSize = 14.000
 funky.MouseButton1Down:connect(function()
 	local framework;
-local funcs = {}
+	local funcs = {}
 
-local islclosure = islclosure or is_l_closure
-local getinfo = getinfo or debug.getinfo
-local getupvalues = getupvalues or debug.getupvalues
-local getconstants = getconstants or debug.getconstants
+	local islclosure = islclosure or is_l_closure
+	local getinfo = getinfo or debug.getinfo
+	local getupvalues = getupvalues or debug.getupvalues
+	local getconstants = getconstants or debug.getconstants
 
-for i, v in next, getgc(true) do
-    if type(v) == 'table' and rawget(v, 'GameUI') then
-        framework = v;
-    end
+	for i, v in next, getgc(true) do
+		if type(v) == 'table' and rawget(v, 'GameUI') then
+			framework = v;
+		end
 
-    if type(v) == 'function' and islclosure(v) then
-        local info = getinfo(v);
-        if info.name == '' then continue end
-        
-        if info.source:match('%.Arrows$') then
-            local constants = getconstants(v);
-            if table.find(constants, 'Right') and table.find(constants, 'NewThread') then
-                funcs.KeyDown = v;
-            elseif table.find(constants, 'Multiplier') and table.find(constants, 'MuteVoices') then
-                funcs.KeyUp = v;
-            end
-        end
-    end
+		if type(v) == 'function' and islclosure(v) then
+			local info = getinfo(v);
+			if info.name == '' then continue end
 
-    if framework and funcs.KeyUp and funcs.KeyDown then break end
-end
+			if info.source:match('%.Arrows$') then
+				local constants = getconstants(v);
+				if table.find(constants, 'Right') and table.find(constants, 'NewThread') then
+					funcs.KeyDown = v;
+				elseif table.find(constants, 'Multiplier') and table.find(constants, 'MuteVoices') then
+					funcs.KeyUp = v;
+				end
+			end
+		end
 
-if type(framework) ~= 'table' or (not rawget(framework, 'UI')) then
-    return game.Players.LocalPlayer:Kick('Failed to locate framework.')
-elseif (not (funcs.KeyDown and funcs.KeyUp)) then
-    return game.Players.LocalPlayer:Kick('Failed to locate key functions.')
-end
+		if framework and funcs.KeyUp and funcs.KeyDown then break end
+	end
+
+	if type(framework) ~= 'table' or (not rawget(framework, 'UI')) then
+		return game.Players.LocalPlayer:Kick('Failed to locate framework.')
+	elseif (not (funcs.KeyDown and funcs.KeyUp)) then
+		return game.Players.LocalPlayer:Kick('Failed to locate key functions.')
+	end
 
 
-local marked = {}
-local map = { [0] = 'Left', [1] = 'Down', [2] = 'Up', [3] = 'Right', }
-local keys = { Up = Enum.KeyCode.W; Down = Enum.KeyCode.S; Left = Enum.KeyCode.A; Right = Enum.KeyCode.D; }
+	local marked = {}
+	local map = { [0] = 'Left', [1] = 'Down', [2] = 'Up', [3] = 'Right', }
+	local keys = { Up = Enum.KeyCode.W; Down = Enum.KeyCode.S; Left = Enum.KeyCode.A; Right = Enum.KeyCode.D; }
 
--- https://eryn.io/gist/3db84579866c099cdd5bb2ff37947cec
--- bla bla spawn and wait are bad 
--- can also use bindables for the fastspawn idc
+	-- https://eryn.io/gist/3db84579866c099cdd5bb2ff37947cec
+	-- bla bla spawn and wait are bad 
+	-- can also use bindables for the fastspawn idc
 
-local runService = game:GetService('RunService')
+	local runService = game:GetService('RunService')
 
-local fastWait, fastSpawn do
-    function fastWait(t)
-        local d = 0;
-        while d < t do
-            d += runService.RenderStepped:wait()
-        end
-    end
+	local fastWait, fastSpawn do
+		function fastWait(t)
+			local d = 0;
+			while d < t do
+				d += runService.RenderStepped:wait()
+			end
+		end
 
-    function fastSpawn(f)
-        coroutine.wrap(f)()
-    end
-end
+		function fastSpawn(f)
+			coroutine.wrap(f)()
+		end
+	end
 
-while runService.RenderStepped:wait() do
-    for _, arrow in next, framework.UI.ActiveSections do
-        if arrow.Side ~= framework.UI.CurrentSide then continue end -- ignore the opponent's arrows
-        if marked[arrow] then continue end -- ignore marked arrows so we dont spam them
-        
-        local index = arrow.Data.Position % 4
-        local position = map[index] -- % 4 because the right side numbers are 4, 5, 6, 7 and are not in the key map
-        if (not position) then continue end -- oh well the position got eaten
+	while runService.RenderStepped:wait() do
+		for _, arrow in next, framework.UI.ActiveSections do
+			if arrow.Side ~= framework.UI.CurrentSide then continue end -- ignore the opponent's arrows
+			if marked[arrow] then continue end -- ignore marked arrows so we dont spam them
 
-        local distance = (1 - math.abs(arrow.Data.Time - framework.SongPlayer.CurrentlyPlaying.TimePosition)) * 100 -- get the "distance" or whatever
-        if distance >= 95 then -- if above a certain threshold, we do this
-            marked[arrow] = true; -- mark the arrow
-            fastSpawn(function()
-                funcs.KeyDown(position)
-                if arrow.Data.Length > 0 then
-                    fastWait(arrow.Data.Length) -- usually these are held long enough
-                else
-                    fastWait(0.05) -- wait a tiny bit of time so the fucking animations play and you dont get called out as bad :)
-                end
-                funcs.KeyUp(position)
-                marked[arrow] = nil
-            end)
-        end
-    end
-end
+			local index = arrow.Data.Position % 4
+			local position = map[index] -- % 4 because the right side numbers are 4, 5, 6, 7 and are not in the key map
+			if (not position) then continue end -- oh well the position got eaten
+
+			local distance = (1 - math.abs(arrow.Data.Time - framework.SongPlayer.CurrentlyPlaying.TimePosition)) * 100 -- get the "distance" or whatever
+			if distance >= 95 then -- if above a certain threshold, we do this
+				marked[arrow] = true; -- mark the arrow
+				fastSpawn(function()
+					funcs.KeyDown(position)
+					if arrow.Data.Length > 0 then
+						fastWait(arrow.Data.Length) -- usually these are held long enough
+					else
+						fastWait(0.04) -- wait a tiny bit of time so the fucking animations play and you dont get called out as bad :)
+					end
+					funcs.KeyUp(position)
+					marked[arrow] = nil
+				end)
+			end
+		end
+	end
 end)
 
 mm2.Name = "mm2"
 mm2.Parent = main
-mm2.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+mm2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 mm2.Position = UDim2.new(0, 0, 0.32520324, 0)
 mm2.Size = UDim2.new(0, 94, 0, 24)
 mm2.Font = Enum.Font.SourceSans
 mm2.Text = "mm2"
-mm2.TextColor3 = Color3.fromRGB(0, 0, 0)
+mm2.TextColor3 = Color3.fromRGB(238, 238, 238)
 mm2.TextSize = 14.000
 mm2.MouseButton1Down:connect(function()
 	loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
@@ -396,12 +396,12 @@ end)
 
 dahood.Name = "da hood"
 dahood.Parent = main
-dahood.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+dahood.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 dahood.Position = UDim2.new(0, 0, 0.243902445, 0)
 dahood.Size = UDim2.new(0, 106, 0, 20)
 dahood.Font = Enum.Font.SourceSans
-dahood.Text = "Free Emotes"
-dahood.TextColor3 = Color3.fromRGB(0, 0, 0)
+dahood.Text = "da hood (bad game)"
+dahood.TextColor3 = Color3.fromRGB(255, 255, 255)
 dahood.TextSize = 14.000
 dahood.MouseButton1Down:connect(function()
 	loadstring(game:HttpGet("https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/37eef2120d509b37b31fa73944ab2361/raw/kT2fVEFnzDfCRXAP"))()
@@ -409,27 +409,313 @@ end)
 
 crash.Name = "crash"
 crash.Parent = main
-crash.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+crash.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 crash.Position = UDim2.new(0.559523821, 0, 0.32520324, 0)
 crash.Size = UDim2.new(0, 74, 0, 24)
 crash.Font = Enum.Font.SourceSans
-crash.Text = "crash urself"
-crash.TextColor3 = Color3.fromRGB(0, 0, 0)
+crash.Text = "hitbox"
+crash.TextColor3 = Color3.fromRGB(255, 255, 255)
 crash.TextSize = 14.000
 crash.MouseButton1Down:connect (function ()     
-	game:Shutdown()
+	local active = true
+	local trueActive = true
+	local reachType = "Sphere"
+	local dmgEnabled = true
+	local visualizerEnabled = false
+
+	local visualizer = Instance.new("Part")
+	visualizer.BrickColor = BrickColor.Blue()
+	visualizer.Transparency = 0.6
+	visualizer.Anchored = true
+	visualizer.CanCollide = false
+	visualizer.Size = Vector3.new(0.5,0.5,0.5)
+	visualizer.BottomSurface = Enum.SurfaceType.Smooth
+	visualizer.TopSurface = Enum.SurfaceType.Smooth
+
+	local ScreenGui = Instance.new("ScreenGui")
+	local Frame = Instance.new("Frame")
+	local TextLabel = Instance.new("TextLabel")
+	local TextBox = Instance.new("TextBox")
+	local TextLabel_2 = Instance.new("TextLabel")
+	local TextLabel_3 = Instance.new("TextLabel")
+	local TextLabel_4 = Instance.new("TextLabel")
+	local TextButton = Instance.new("TextButton")
+	local Frame_2 = Instance.new("Frame")
+	local Frame_3 = Instance.new("Frame")
+	local Frame_4 = Instance.new("Frame")
+	local Frame_5 = Instance.new("Frame")
+	local TextButton_2 = Instance.new("TextButton")
+
+	--Properties:
+
+	ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+	ScreenGui.DisplayOrder = 999999999
+	ScreenGui.ResetOnSpawn = false
+
+	Frame.Parent = ScreenGui
+	Frame.AnchorPoint = Vector2.new(0, 0.5)
+	Frame.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+	Frame.BackgroundTransparency = 0.300
+	Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Frame.BorderSizePixel = 4
+	Frame.Position = UDim2.new(0, 0, 0.600000024, 0)
+	Frame.Size = UDim2.new(0.150000006, 0, 0.300000012, 0)
+
+	TextLabel.Parent = Frame
+	TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.BackgroundTransparency = 1.000
+	TextLabel.Size = UDim2.new(0.600000024, 0, 0.200000003, 0)
+	TextLabel.Font = Enum.Font.SourceSans
+	TextLabel.Text = "Reach:"
+	TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel.TextScaled = true
+	TextLabel.TextSize = 14.000
+	TextLabel.TextWrapped = true
+
+	TextBox.Parent = Frame
+	TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextBox.BackgroundTransparency = 1.000
+	TextBox.Position = UDim2.new(0.600000024, 0, 0, 0)
+	TextBox.Size = UDim2.new(0.400000006, 0, 0.200000003, 0)
+	TextBox.Font = Enum.Font.SourceSans
+	TextBox.Text = "3.5"
+	TextBox.TextColor3 = Color3.fromRGB(255, 76, 76)
+	TextBox.TextScaled = true
+	TextBox.TextSize = 14.000
+	TextBox.TextWrapped = true
+
+	TextLabel_2.Parent = Frame
+	TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel_2.BackgroundTransparency = 1.000
+	TextLabel_2.Position = UDim2.new(0, 0, 0.200000003, 0)
+	TextLabel_2.Size = UDim2.new(0.600000024, 0, 0.200000003, 0)
+	TextLabel_2.Font = Enum.Font.SourceSans
+	TextLabel_2.Text = "Shape:"
+	TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel_2.TextScaled = true
+	TextLabel_2.TextSize = 14.000
+	TextLabel_2.TextWrapped = true
+
+	TextLabel_3.Parent = Frame
+	TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel_3.BackgroundTransparency = 1.000
+	TextLabel_3.Position = UDim2.new(0, 0, 0.400000006, 0)
+	TextLabel_3.Size = UDim2.new(0.600000024, 0, 0.200000003, 0)
+	TextLabel_3.Font = Enum.Font.SourceSans
+	TextLabel_3.Text = "Damage:"
+	TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel_3.TextScaled = true
+	TextLabel_3.TextSize = 14.000
+	TextLabel_3.TextWrapped = true
+
+	TextLabel_4.Parent = Frame
+	TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel_4.BackgroundTransparency = 1.000
+	TextLabel_4.Position = UDim2.new(0, 0, 0.600000024, 0)
+	TextLabel_4.Size = UDim2.new(0.600000024, 0, 0.200000003, 0)
+	TextLabel_4.Font = Enum.Font.SourceSans
+	TextLabel_4.Text = "Visualizer:"
+	TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextLabel_4.TextScaled = true
+	TextLabel_4.TextSize = 14.000
+	TextLabel_4.TextWrapped = true
+
+	TextButton.Parent = Frame
+	TextButton.AnchorPoint = Vector2.new(0, 1)
+	TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextButton.BackgroundTransparency = 1.000
+	TextButton.Position = UDim2.new(0, 0, 1, 0)
+	TextButton.Size = UDim2.new(1, 0, 0.150000006, 0)
+	TextButton.Font = Enum.Font.SourceSansBold
+	TextButton.Text = "Kill Script"
+	TextButton.TextColor3 = Color3.fromRGB(222, 0, 0)
+	TextButton.TextScaled = true
+	TextButton.TextSize = 14.000
+	TextButton.TextWrapped = true
+
+	Frame_2.Parent = Frame
+	Frame_2.Active = true
+	Frame_2.AnchorPoint = Vector2.new(0, 0.5)
+	Frame_2.BackgroundColor3 = Color3.fromRGB(31, 31, 31)
+	Frame_2.BorderSizePixel = 0
+	Frame_2.Position = UDim2.new(0.725000024, 0, 0.699999988, 0)
+	Frame_2.Size = UDim2.new(0, 25, 0, 25)
+	Frame_2.ZIndex = 5
+
+	Frame_3.Parent = Frame_2
+	Frame_3.AnchorPoint = Vector2.new(0.5, 0.5)
+	Frame_3.BackgroundColor3 = Color3.fromRGB(255, 76, 76)
+	Frame_3.BorderSizePixel = 0
+	Frame_3.LayoutOrder = 1
+	Frame_3.Position = UDim2.new(0.5, 0, 0.5, 0)
+
+	Frame_4.Parent = Frame
+	Frame_4.Active = true
+	Frame_4.AnchorPoint = Vector2.new(0, 0.5)
+	Frame_4.BackgroundColor3 = Color3.fromRGB(31, 31, 31)
+	Frame_4.BorderSizePixel = 0
+	Frame_4.Position = UDim2.new(0.725000024, 0, 0.5, 0)
+	Frame_4.Size = UDim2.new(0, 25, 0, 25)
+	Frame_4.ZIndex = 5
+
+	Frame_5.Parent = Frame_4
+	Frame_5.AnchorPoint = Vector2.new(0.5, 0.5)
+	Frame_5.BackgroundColor3 = Color3.fromRGB(255, 76, 76)
+	Frame_5.BorderSizePixel = 0
+	Frame_5.LayoutOrder = 1
+	Frame_5.Position = UDim2.new(0.5, 0, 0.5, 0)
+	Frame_5.Size = UDim2.new(1, 0, 1, 0)
+
+	TextButton_2.Parent = Frame
+	TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextButton_2.BackgroundTransparency = 1.000
+	TextButton_2.Position = UDim2.new(0.600000024, 0, 0.200000003, 0)
+	TextButton_2.Size = UDim2.new(0.400000006, 0, 0.200000003, 0)
+	TextButton_2.Font = Enum.Font.SourceSans
+	TextButton_2.Text = "Sphere"
+	TextButton_2.TextColor3 = Color3.fromRGB(255, 76, 76)
+	TextButton_2.TextScaled = true
+	TextButton_2.TextSize = 14.000
+	TextButton_2.TextWrapped = true
+
+	repeat wait() until game.Players.LocalPlayer
+	ScreenGui.Parent = game:GetService("CoreGui")
+
+
+
+	Frame_4.InputBegan:connect(function(inp)
+		if inp.UserInputType == Enum.UserInputType.MouseButton1 then
+			dmgEnabled = not dmgEnabled
+			local goal = {Size = UDim2.new(0,0,0,0)}
+			if dmgEnabled then
+				goal = {Size = UDim2.new(1,0,1,0)}
+			end
+			game:GetService("TweenService"):Create(Frame_5,TweenInfo.new(0.12,Enum.EasingStyle.Quad),goal):Play()
+		end
+	end)
+	Frame_2.InputBegan:connect(function(inp)
+		if inp.UserInputType == Enum.UserInputType.MouseButton1 then
+			visualizerEnabled = not visualizerEnabled
+			local goal = {Size = UDim2.new(0,0,0,0)}
+			if visualizerEnabled then
+				goal = {Size = UDim2.new(1,0,1,0)}
+			end
+			game:GetService("TweenService"):Create(Frame_3,TweenInfo.new(0.12,Enum.EasingStyle.Linear),goal):Play()
+		end
+	end)
+	TextButton_2.MouseButton1Click:connect(function()
+		if reachType == "Sphere" then
+			reachType = "Line"
+		else
+			reachType = "Sphere"
+		end
+		TextButton_2.Text = reachType
+	end)
+	TextButton.MouseButton1Click:connect(function()
+		trueActive = false
+		ScreenGui:Destroy()
+	end)
+	game:GetService("UserInputService").InputBegan:connect(function(inp,gpe)
+		if gpe then return end
+		if inp.KeyCode == Enum.KeyCode.H then
+			ScreenGui.Enabled = not ScreenGui.Enabled
+		end
+	end)
+
+	local plr = game.Players.LocalPlayer
+
+	local function onHit(hit,handle)
+		local victim = hit.Parent:FindFirstChildOfClass("Humanoid")
+		if victim and victim.Parent.Name ~= game.Players.LocalPlayer.Name then
+			if dmgEnabled then
+				for _,v in pairs(hit.Parent:GetChildren()) do
+					if v:IsA("Part") then
+						firetouchinterest(v,handle,0)
+						firetouchinterest(v,handle,1)
+					end
+				end
+			else
+				firetouchinterest(hit,handle,0)
+				firetouchinterest(hit,handle,1)
+			end
+		end
+	end
+
+	local function getWhiteList()
+		local wl = {}
+		for _,v in pairs(game.Players:GetPlayers()) do
+			if v ~= plr then
+				local char = v.Character
+				if char then
+					for _,q in pairs(char:GetChildren()) do
+						if q:IsA("Part") then
+							table.insert(wl,q)
+						end
+					end
+				end
+			end
+		end
+		return wl
+	end
+
+	game:GetService("RunService").RenderStepped:connect(function()
+		if not active or not trueActive then return end
+		local s = plr.Character and plr.Character:FindFirstChildOfClass("Tool")
+		if not s then visualizer.Parent = nil end
+		if s then
+			local handle = s:FindFirstChild("Handle") or s:FindFirstChildOfClass("Part")
+			if handle then
+				if visualizerEnabled then
+					visualizer.Parent = workspace
+				else
+					visualizer.Parent = nil
+				end
+				local reach = tonumber(TextBox.Text)
+				if reach then
+					if reachType == "Sphere" then
+						visualizer.Shape = Enum.PartType.Ball
+						visualizer.Size = Vector3.new(reach,reach,reach)
+						visualizer.CFrame = handle.CFrame
+						for _,v in pairs(game.Players:GetPlayers()) do
+							local hrp = v.Character and v.Character:FindFirstChild("HumanoidRootPart")
+							if hrp and handle then
+								local mag = (hrp.Position-handle.Position).magnitude
+								if mag <= reach then
+									onHit(hrp,handle)
+								end
+							end
+						end
+					elseif reachType == "Line" then
+						local origin = (handle.CFrame*CFrame.new(0,0,-2)).p
+						local ray = Ray.new(origin,handle.CFrame.lookVector*-reach)
+						local p,pos = workspace:FindPartOnRayWithWhitelist(ray,getWhiteList())
+						visualizer.Shape = Enum.PartType.Block
+						visualizer.Size = Vector3.new(1,0.8,reach)
+						visualizer.CFrame = handle.CFrame*CFrame.new(0,0,(reach/2)+2)
+						if p then
+							onHit(p,handle)
+						else
+							for _,v in pairs(handle:GetTouchingParts()) do
+								onHit(v,handle)
+							end
+						end
+					end
+				end
+			end
+		end
+	end)
 end)
 
 
 
 univ.Name = "univ"
 univ.Parent = main
-univ.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+univ.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 univ.Position = UDim2.new(0.625, 0, 0.243902445, 0)
 univ.Size = UDim2.new(0, 63, 0, 20)
 univ.Font = Enum.Font.SourceSans
 univ.Text = "universal"
-univ.TextColor3 = Color3.fromRGB(0, 0, 0)
+univ.TextColor3 = Color3.fromRGB(255, 255, 255)
 univ.TextSize = 14.000
 univ.MouseButton1Down:connect(function()
 	loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
