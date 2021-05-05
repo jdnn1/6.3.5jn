@@ -400,7 +400,7 @@ dahood.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 dahood.Position = UDim2.new(0, 0, 0.243902445, 0)
 dahood.Size = UDim2.new(0, 106, 0, 20)
 dahood.Font = Enum.Font.SourceSans
-dahood.Text = "da hood (bad game)"
+dahood.Text = "Emotes (r6/r15!)"
 dahood.TextColor3 = Color3.fromRGB(255, 255, 255)
 dahood.TextSize = 14.000
 dahood.MouseButton1Down:connect(function()
