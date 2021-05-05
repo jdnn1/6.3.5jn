@@ -714,9 +714,20 @@ univ.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 univ.Position = UDim2.new(0.625, 0, 0.243902445, 0)
 univ.Size = UDim2.new(0, 63, 0, 20)
 univ.Font = Enum.Font.SourceSans
-univ.Text = "universal"
+univ.Text = "purpleteam"
 univ.TextColor3 = Color3.fromRGB(255, 255, 255)
 univ.TextSize = 14.000
 univ.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
+	game.Players.LocalPlayer.Status.Team.Value = "TPC"
+	wait(0.1)
+	game.Players.LocalPlayer.Character["Body Colors"].RightArmColor = BrickColor.new("Bright violet")
+	wait(0.1)
+	game.Players.LocalPlayer.Character["Body Colors"].TorsoColor = BrickColor.new("Bright violet")
+	wait(0.1)
+	game.Players.LocalPlayer.Character["Body Colors"].LeftArmColor= BrickColor.new("Bright violet")
+	wait(0.1)
+	game.Players.LocalPlayer.Character["Body Colors"].Cap.Handle = BrickColor.new("Bright violet")
+	wait(0.1)
+	game.Players.LocalPlayer.Character.Cap.Handle.BrickColor = BrickColor.new("Bright violet")
+
 end)
