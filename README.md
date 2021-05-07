@@ -371,7 +371,7 @@ funky.MouseButton1Down:connect(function()
 					if arrow.Data.Length > 0 then
 						fastWait(arrow.Data.Length) -- usually these are held long enough
 					else
-						fastWait(0.04) -- wait a tiny bit of time so the fucking animations play and you dont get called out as bad :)
+						fastWait(0.03) -- wait a tiny bit of time so the fucking animations play and you dont get called out as bad :)
 					end
 					funcs.KeyUp(position)
 					marked[arrow] = nil
