@@ -38,7 +38,7 @@ user.Parent = main
 user.BackgroundColor3 = Color3.fromRGB(5, 28, 50)
 user.Size = UDim2.new(0, 167, 0, 39)
 user.Font = Enum.Font.SourceSans
-user.Text = "P𝕒ris HUB 😎"
+user.Text = "Paris HUB 😎"
 user.TextColor3 = Color3.fromRGB(0, 0, 0)
 user.TextSize = 14.000
 
